@@ -1,4 +1,3 @@
 Detta är i main
 Detta är i Nya branchen
 tredje raden nu i New_branch
-Fjärde raden nu i New_branch2
