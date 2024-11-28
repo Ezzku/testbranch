@@ -2,3 +2,4 @@ Detta är i main
 Detta är i Nya branchen
 tredje raden nu i New_branch
 Nu i main igen
+femte rad från main till New_branch2
